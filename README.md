@@ -1,2 +1,12 @@
-# Sarcina1
-Creați un repozitoriu cu numele Sarcina1. Creați 5 ramuri noi și clonați aplicația pentru fiecare ramură. Numele ramurilor îl creați conform datelor (test4_1, test4_2, ...).
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
